@@ -1,0 +1,10 @@
+TO SET A SPECIFIC TIMEZONE FOR YOUR SERVER:
+
+COMMAND: "sudo timedatectl set-timezone Continent/Country"
+
+HERE,
+SUDO = To Gain Root User Authorities
+TIMEDATECTL = Command To Control Time & Date Of The Server
+SET-TIMEZONE = Command To Change The TimeZone
+Continent = The Continent Who's TimeZone You Want
+Country = The Country Who's TimeZone To Set
